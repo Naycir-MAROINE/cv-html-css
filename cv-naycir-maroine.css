@@ -1,0 +1,26 @@
+.violet {
+    background-color: blueviolet;
+    color: white;
+}
+.rose{ 
+    background-color: deeppink;
+    color: aliceblue;
+}
+.jaune{
+    background-color: gold;
+    color: aliceblue;
+}
+body{ font-family: 'Fjalla One', sans-serif;
+
+}
+ .fuschia{
+    background-color: rgb(139, 34, 101);
+ }
+div{ 
+    margin: 20px auto;
+    width: 80%; 
+    padding:15px;
+    border: 10px solid #0D8
+}
+
+h1{ text-align: center;}
